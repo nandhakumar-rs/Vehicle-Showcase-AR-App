@@ -21,4 +21,4 @@ Module 4
 <li>Fixing the audio ascents and video quality.</li></ul>
 
 ## Timeline
-
+https://user-images.githubusercontent.com/17250246/54740098-59088980-4be0-11e9-8127-be75ef67318b.png

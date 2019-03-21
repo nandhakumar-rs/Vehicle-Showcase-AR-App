@@ -9,13 +9,13 @@
 
 ## Module Splitup
 ## Module 1
-Creation of intro scene. 
-Adding of  3D car models.
+<ul><li>Creation of intro scene. </li>
+ <li>Adding of  3D car models.</li></ul>
 ## Module 2
-Adding the windows, chassis and base of the car.
+<ul><li>Adding the windows, chassis and base of the car.</li></ul>
 ## Module 3
-Integration of voice AI controlled bot.
-Communication code using C#.
+<ul><li>Integration of voice AI controlled bot.</li>
+<li>Communication code using C#.</li></ul>
 ## Module 4
-Improving the code.
-Fixing the audio ascents and video quality.
+<ul><li>Improving the code.</li>
+<li>Fixing the audio ascents and video quality.</li></ul>

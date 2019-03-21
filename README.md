@@ -7,9 +7,9 @@
  2. Sajan. S         [15csa51] - Bot integration and c# object definition
  3. Vigneshwar D.K   [15csa69] - UI and 3D car modelling design
 
-## Module Splitup
+# Module Splitup
 ## Module 1
-<ul><li>Creation of intro scene. </li>
+<ul><li>Creation of intro scene.</li>
  <li>Adding of  3D car models.</li></ul>
 ## Module 2
 <ul><li>Adding the windows, chassis and base of the car.</li></ul>

@@ -24,7 +24,8 @@ Module 4
 ![Product Development (1)](https://user-images.githubusercontent.com/17250246/54740098-59088980-4be0-11e9-8127-be75ef67318b.png)
 
 ## Demo Video
-https://youtu.be/GxSMJD4t7dk
+[![IMAGE ALT TEXT HERE](https://imgur.com/f1uDxAk)](https://www.youtube.com/watch?v=GxSMJD4t7dk)
+
 
 ## Future enhancement
 Future work holds how engine works and damaged parts replacement with image recognition.

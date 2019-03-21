@@ -19,3 +19,6 @@ Module 3
 Module 4
 <ul><li>Improving the code.</li>
 <li>Fixing the audio ascents and video quality.</li></ul>
+
+## Timeline
+

@@ -25,3 +25,11 @@ Module 4
 
 ## Demo Video
 https://youtu.be/GxSMJD4t7dk
+
+## Future enhancement
+Future work holds how engine works and damaged parts replacement with image recognition.
+
+## Completed Percentage
+Vehicle Showcase AR App - 95%
+
+

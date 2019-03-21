@@ -24,4 +24,4 @@ Module 4
 ![Product Development (1)](https://user-images.githubusercontent.com/17250246/54740098-59088980-4be0-11e9-8127-be75ef67318b.png)
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxSMJD4t7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/GxSMJD4t7dk
